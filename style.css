@@ -1,0 +1,18 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+}
+input{
+    width: 350px;
+    border-radius: 200px;
+    height: 45px;
+}
+#header{
+    padding-left: 500px;
+    text-decoration: none;
+}
+h1{
+    font-size: 100px;
+}
